@@ -1,0 +1,7 @@
+entity testchip
+clock MCLK
+reset nRST
+out TX
+in RX
+out LED
+architecture struct

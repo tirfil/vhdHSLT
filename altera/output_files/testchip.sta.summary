@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'bitclock:I_bitclock_0|CKOUT'
+Slack : -3.076
+TNS   : -74.943
+
+Type  : Slow Model Setup 'I_PLL|altpll_component|pll|clk[0]'
+Slack : 1.398
+TNS   : 0.000
+
+Type  : Slow Model Setup 'MCLK'
+Slack : 18.275
+TNS   : 0.000
+
+Type  : Slow Model Hold 'I_PLL|altpll_component|pll|clk[0]'
+Slack : -1.164
+TNS   : -1.164
+
+Type  : Slow Model Hold 'bitclock:I_bitclock_0|CKOUT'
+Slack : -0.112
+TNS   : -0.333
+
+Type  : Slow Model Hold 'MCLK'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'bitclock:I_bitclock_0|CKOUT'
+Slack : -0.742
+TNS   : -71.232
+
+Type  : Slow Model Minimum Pulse Width 'I_PLL|altpll_component|pll|clk[0]'
+Slack : 1.258
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'MCLK'
+Slack : 8.758
+TNS   : 0.000
+
+Type  : Fast Model Setup 'bitclock:I_bitclock_0|CKOUT'
+Slack : -0.547
+TNS   : -4.673
+
+Type  : Fast Model Setup 'I_PLL|altpll_component|pll|clk[0]'
+Slack : 0.925
+TNS   : 0.000
+
+Type  : Fast Model Setup 'MCLK'
+Slack : 19.302
+TNS   : 0.000
+
+Type  : Fast Model Hold 'I_PLL|altpll_component|pll|clk[0]'
+Slack : -0.545
+TNS   : -0.545
+
+Type  : Fast Model Hold 'bitclock:I_bitclock_0|CKOUT'
+Slack : -0.232
+TNS   : -0.727
+
+Type  : Fast Model Hold 'MCLK'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'bitclock:I_bitclock_0|CKOUT'
+Slack : -0.500
+TNS   : -48.000
+
+Type  : Fast Model Minimum Pulse Width 'I_PLL|altpll_component|pll|clk[0]'
+Slack : 1.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'MCLK'
+Slack : 9.000
+TNS   : 0.000
+
+------------------------------------------------------------

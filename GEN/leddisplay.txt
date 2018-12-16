@@ -1,0 +1,7 @@
+entity leddisplay
+clock MCLK
+reset nRST
+in SET
+in RESET
+out LED
+architecture rtl

@@ -1,0 +1,8 @@
+entity manchester
+clock MCLK
+reset nRST
+in S1
+in S2
+in SIN
+out SOUT
+architecture rtl

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Dec 16 22:15:06 2018
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : testchip
+Top-level Entity Name : testchip
+Family : Cyclone II
+Device : EP2C5T144C8
+Timing Models : Final
+Total logic elements : 77 / 4,608 ( 2 % )
+    Total combinational functions : 43 / 4,608 ( < 1 % )
+    Dedicated logic registers : 74 / 4,608 ( 2 % )
+Total registers : 74
+Total pins : 8 / 89 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 0 / 119,808 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

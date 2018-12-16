@@ -1,0 +1,5 @@
+entity timer250m
+clock CK50M
+reset nRST
+out TIC
+architecture rtl

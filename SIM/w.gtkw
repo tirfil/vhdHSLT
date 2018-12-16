@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Thu Dec  6 12:18:03 2018
+[*]
+[dumpfile] "/home/user/Documents/LINK2/SIM/testchip.vcd"
+[dumpfile_mtime] "Thu Dec  6 12:13:00 2018"
+[dumpfile_size] 16797696
+[savefile] "/home/user/Documents/LINK2/SIM/w.gtkw"
+[timestart] 0
+[size] 1916 619
+[pos] -1 -20
+*-38.533188 210160000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] i_testchip_0.
+[sst_width] 205
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 161
+@28
+ck4x
+led
+mclk
+nrst
+running
+rx
+tx
+i_testchip_0.i_lfsr17_0.sout
+i_testchip_0.i_bitclock_0.rxout
+i_testchip_0.i_bitclock_0.ckout
+i_testchip_0.i_demanchester_0.decod
+i_testchip_0.i_check17_0.err
+i_testchip_0.i_timer250m_0.tic
+[pattern_trace] 1
+[pattern_trace] 0

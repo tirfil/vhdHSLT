@@ -1,0 +1,7 @@
+entity check17
+clock MCLK
+reset nRST
+in ENA
+in SIN
+out ERR
+architecture rtl

@@ -1,0 +1,9 @@
+entity timing
+clock MCLK
+reset nRST
+out E2
+out E4
+out E8
+out S1
+out S2
+architecture rtl

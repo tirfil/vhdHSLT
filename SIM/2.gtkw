@@ -1,0 +1,55 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Fri Dec 14 21:49:50 2018
+[*]
+[dumpfile] "/home/user/Documents/LINK2/SIM/testchipx2.vcd"
+[dumpfile_mtime] "Fri Dec 14 21:37:33 2018"
+[dumpfile_size] 98234368
+[savefile] "/home/user/Documents/LINK2/SIM/2.gtkw"
+[timestart] 2788930000000
+[size] 1694 838
+[pos] -1 -1
+*-29.052576 2791034000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] i_testchip_0.
+[treeopen] i_testchip_1.
+[sst_width] 208
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 238
+@28
+led10
+led11
+led20
+led21
+mclk0
+mclk1
+nrst
+running
+rx
+tx
+@200
+-
+@29
+i_testchip_0.i_bitclock_0.transition
+@24
+i_testchip_0.i_bitclock_0.count[31:0]
+@28
+i_testchip_0.i_bitclock_0.rxena
+i_testchip_0.i_bitclock_0.ckout
+i_testchip_0.i_bitclock_0.rxout
+i_testchip_0.i_div4_0.ckout
+i_testchip_0.i_check17_0.err
+@200
+-
+@28
+i_testchip_1.i_bitclock_0.transition
+@24
+i_testchip_1.i_bitclock_0.count[31:0]
+@28
+i_testchip_1.i_bitclock_0.rxena
+i_testchip_1.i_bitclock_0.ckout
+i_testchip_1.i_bitclock_0.rxout
+i_testchip_1.i_div4_0.ckout
+i_testchip_1.i_check17_0.err
+[pattern_trace] 1
+[pattern_trace] 0
