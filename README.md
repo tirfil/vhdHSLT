@@ -23,3 +23,24 @@ If an error is detected, a LED is on during 250 ms.
 __
 
 
+An implementation is done with two EP2C5T144C8 (Altera cyclone II).
+
+![Image1](https://github.com/tirfil/vhdHSLT/blob/master/IMAGE/CIMG0033.JPG)
+
+![Image1](https://github.com/tirfil/vhdHSLT/blob/master/IMAGE/testlinkpinout.png)
+
+LED is active low. So LED is on when no error is detected.
+
+Data link use differential pads (LVDS).
+
+Data is generated at 25 MHz.
+
+After Manchester coding, data link frequency is 50 MHz.
+
+Data and clock extraction is performed at 200 MHz (use of PLL X4)
+
+After Manchester decoding frequency is back to 25 MHz.
+
+__
+
+
